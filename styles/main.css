@@ -1,0 +1,24 @@
+/* 公共样式 */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 12px;
+    /* background-color: #999; */
+}
+a{
+    text-decoration: none;
+}
+article,section,aside,address,nav,header,footer,img{
+    display: block;
+}
+img{
+    border: none;
+}
+li{
+    list-style: none;
+}
+h3,li{
+    display: inline-block;
+}
